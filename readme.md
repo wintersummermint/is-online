@@ -1,6 +1,6 @@
 # is-online [![Build Status](https://travis-ci.org/sindresorhus/is-online.svg?branch=master)](https://travis-ci.org/sindresorhus/is-online)
 
-> Check if the internet connection is up
+> Check if the internet connection is up (Redmorph Version)
 
 Works in Node.js and the browser *(with [browserify](http://browserify.org))*.
 
@@ -10,7 +10,7 @@ In the browser you have [`navigator.onLine`](https://developer.mozilla.org/en-US
 ## Install
 
 ```
-$ npm install --save is-online
+$ npm install --save is-online-rm
 ```
 
 
