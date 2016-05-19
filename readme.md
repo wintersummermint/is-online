@@ -17,7 +17,7 @@ $ npm install --save is-online-rm
 ## Usage
 
 ```js
-var isOnline = require('is-online');
+var isOnline = require('is-online-rm');
 
 isOnline(function(err, online) {
 	console.log(online);
