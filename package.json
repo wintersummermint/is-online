@@ -1,16 +1,17 @@
 {
-  "name": "is-online",
-  "version": "5.1.1",
-  "description": "Check if the internet connection is up",
+  "name": "is-online-rm",
+  "version": "5.1.2",
+  "description": "check connectivity with for rm vpn desktop",
   "license": "MIT",
-  "repository": "sindresorhus/is-online",
+  "repository": "wintersummermint/is-online",
   "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
+    "name": "Nixon Galaro",
+    "email": "nixongalario@gmail.com",
+    "url": "nixongalario.com"
   },
   "contributors": [
-    "silverwind <me@silverwind.io> (github.com/silverwind)"
+    "silverwind <me@silverwind.io> (github.com/silverwind)",
+    "nixongalario <nixongalario@gmail.com> (github.com/wintersummermint"
   ],
   "browser": "browser.js",
   "engines": {
